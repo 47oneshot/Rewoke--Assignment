@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "314878266792",
+    "firebase_url": "https://fashionbazaar-faeab-default-rtdb.firebaseio.com",
+    "project_id": "fashionbazaar-faeab",
+    "storage_bucket": "fashionbazaar-faeab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314878266792:android:13533e912dabb25684619d",
+        "android_client_info": {
+          "package_name": "com.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314878266792-5135kjtpqgjdd60bsubuor9arkhallq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg03ma6EMjWM3H_VgkSbfOJU0cfo7cntU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314878266792-5135kjtpqgjdd60bsubuor9arkhallq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314878266792:android:80a91f42d0562f0484619d",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314878266792-5135kjtpqgjdd60bsubuor9arkhallq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg03ma6EMjWM3H_VgkSbfOJU0cfo7cntU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314878266792-5135kjtpqgjdd60bsubuor9arkhallq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314878266792:android:21a573e8f7a7188084619d",
+        "android_client_info": {
+          "package_name": "com.xsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314878266792-nq27v28ceohtks63f9b93f1u9f644aic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xsocial",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "314878266792-5135kjtpqgjdd60bsubuor9arkhallq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg03ma6EMjWM3H_VgkSbfOJU0cfo7cntU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314878266792-5135kjtpqgjdd60bsubuor9arkhallq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
